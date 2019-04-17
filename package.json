@@ -1,0 +1,28 @@
+{
+  "name": "is_empty",
+  "version": "1.0.0",
+  "description": "A micro library of utility functions that check if values are empty. Check if an object is empty, including if it contains nothing but null values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phillt/is_empty.git"
+  },
+  "keywords": [
+    "js",
+    "object",
+    "javascript",
+    "is",
+    "empty",
+    "is",
+    "null"
+  ],
+  "author": "Felipe Tadeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillt/is_empty/issues"
+  },
+  "homepage": "https://github.com/phillt/is_empty#readme"
+}
